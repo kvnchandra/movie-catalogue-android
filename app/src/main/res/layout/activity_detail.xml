@@ -14,10 +14,10 @@
         android:orientation="horizontal">
 
         <ImageView
+            android:contentDescription="@string/img_desc"
             android:id="@+id/img_photo"
             android:layout_width="200dp"
-            android:layout_height="300dp"
-            android:scaleType="fitXY" />
+            android:layout_height="300dp" />
 
         <LinearLayout
             android:layout_width="match_parent"

@@ -7,6 +7,7 @@
     <string name="movie_cast_header">Cast :</string>
     <string name="movie_cast">- Name\n- Name\n- Name\n- Name\n- Name</string>
     <string name="movie_desc">Deskripsi Film</string>
+    <string name="img_desc">Poster Film</string>
 
     <string-array name="data_name">
         <item>A Star Is Born</item>
